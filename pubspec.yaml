@@ -45,9 +45,6 @@ flutter:
       android:
         package: me.carda.awesome_notifications
         pluginClass: AwesomeNotificationsPlugin
-      web:
-        pluginClass: AwesomeNotificationsWeb
-        fileName: awesome_notifications_web.dart
 
   assets:
     - test/assets/images/test_image.png

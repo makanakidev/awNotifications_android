@@ -4,6 +4,3 @@ build/
 .example
 .vscode
 .dart_tool
-.gitignore
-.linux
-_ios
