@@ -3,3 +3,5 @@ build/
 .ios
 .example
 .vscode
+.dart_tool
+.gitignore
