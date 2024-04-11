@@ -1,2 +1,5 @@
 build/
-example/ios/Runner/GoogleService-Info.plist
+#example/ios/Runner/GoogleService-Info.plist
+.ios
+.example
+.vscode

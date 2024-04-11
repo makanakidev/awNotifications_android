@@ -11,7 +11,6 @@ abstract class AwesomeNotificationsPlatform extends PlatformInterface
 
   static final Object _token = Object();
 
-  // TODO: Missing implementation
   static AwesomeNotificationsPlatform _instance = AwesomeNotificationsWeb();
 
   /// The default instance of [AwesomeNotificationsPlatform] to use.

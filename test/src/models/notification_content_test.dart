@@ -1,5 +1,4 @@
 import 'package:awesome_notifications/awesome_notifications.dart';
-import 'package:awesome_notifications/src/enumerators/notification_play_state.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

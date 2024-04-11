@@ -18,28 +18,24 @@ class AwesomeAudioUtils extends AwesomeMediaUtils {
   getFromMediaAsset(String mediaPath) {
     return null;
 
-    /// TODO MISSING IMPLEMENTATION
   }
 
   @override
   getFromMediaFile(String mediaPath) {
     return null;
 
-    /// TODO MISSING IMPLEMENTATION
   }
 
   @override
   getFromMediaNetwork(String mediaPath) {
     return null;
 
-    /// TODO MISSING IMPLEMENTATION
   }
 
   @override
   getFromMediaResource(String mediaPath) {
     return null;
 
-    /// TODO MISSING IMPLEMENTATION
     /*
         String cleanPath = BitmapUtils.cleanMediaPath(mediaPath);
         rootBundle.loadString(cleanPath).then((value){

@@ -12,7 +12,7 @@ import 'package:mocktail/mocktail.dart';
 import 'src/isolates/isolate_main_test.dart';
 
 class MockMethodChannel extends MethodChannel {
-  MockMethodChannel(String name) : super(name);
+  MockMethodChannel(super.name);
 
   final Map<String, dynamic> _responses = {};
 
